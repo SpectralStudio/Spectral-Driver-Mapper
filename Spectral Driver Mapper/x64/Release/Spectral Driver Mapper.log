@@ -1,0 +1,30 @@
+﻿  bsmi.cpp
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(13,90): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(13,90): warning C4244:         with
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(13,90): warning C4244:         [
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(13,90): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(13,90): warning C4244:         ]
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(31,34): warning C4477: 'swprintf_s' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'char *'
+      C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(31,34):
+      consider using '%hs' in the format string
+      C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(31,34):
+      consider using '%Ts' in the format string
+      C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(31,34):
+      this warning is based on non-standard semantics used by Visual C++
+  
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(32,28): warning C4477: 'swprintf_s' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'char *'
+      C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(32,28):
+      consider using '%hs' in the format string
+      C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(32,28):
+      consider using '%Ts' in the format string
+      C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\bsmi.cpp(32,28):
+      this warning is based on non-standard semantics used by Visual C++
+  
+  Generating code
+  7 of 102 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spectral Driver Mapper.vcxproj -> C:\GitHub\Spectral Driver Mapper\x64\Release\Spectral Driver Mapper.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

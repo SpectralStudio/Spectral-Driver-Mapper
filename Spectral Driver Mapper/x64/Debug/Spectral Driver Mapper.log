@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\main.cpp(12,90): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\main.cpp(12,90): warning C4244:         with
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\main.cpp(12,90): warning C4244:         [
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\main.cpp(12,90): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\main.cpp(12,90): warning C4244:         ]
+C:\GitHub\Spectral Driver Mapper\Spectral Driver Mapper\main.cpp(32,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Spectral Driver Mapper.vcxproj -> C:\GitHub\Spectral Driver Mapper\x64\Debug\Spectral Driver Mapper.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
